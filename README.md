@@ -7,9 +7,9 @@ Welcome to the tribute website dedicated to the beloved actor, Sushant Singh Raj
 Sushant Singh Rajput was an Indian actor, dancer, and philanthropist who made a significant impact in Bollywood with his exceptional performances and dedication to his craft. Known for his roles in movies like *Kai Po Che!*, *MS Dhoni: The Untold Story*, and *Chhichhore*, Sushant's legacy continues to inspire millions.
 
 ## *Screenshot*:
-![YouTube Clone App Screenshot](Images/image2.png)
+![YouTube Clone App Screenshot](image1.4.png)
 
-![YouTube Clone App Screenshot](Images/image1.png)
+![YouTube Clone App Screenshot](image1.5.png)
 
 
 ## 🌟 Features
@@ -31,3 +31,4 @@ Sushant Singh Rajput was an Indian actor, dancer, and philanthropist who made a 
 
 To view and edit this tribute website, you need a basic understanding of HTML and CSS and a code editor like [VSCode](https://code.visualstudio.com/) or [Sublime Text](https://www.sublimetext.com/).
 
+**Thank you for visiting the tribute website for Sushant Singh Rajput. We hope this site serves as a cherished memory of his extraordinary life and career. 🌟**
